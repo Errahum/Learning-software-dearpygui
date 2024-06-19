@@ -3,7 +3,7 @@
 ## Overview
 This project is a learning application developed using DearPyGui, a simple GUI framework for Python. The application presents questions to users and evaluates their answers, providing feedback and keeping score.
 
-![learning_application]([https://github.com/Sahurows/Learning-Software/demo.gif](https://github.com/Sahurows/Learning-software/blob/main/demo.gif))
+![learning_application](https://github.com/Sahurows/Learning-software/blob/main/demo.gif)
 
 ### questions.json
 A JSON file containing a list of questions and their correct answers.
