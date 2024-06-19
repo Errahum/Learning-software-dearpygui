@@ -1,0 +1,163 @@
+[
+    {
+        "question": "Qu'est-ce qu'un interpréteur Python?",
+        "correct_answer": "Le programme qui exécute le code Python ligne par ligne."
+    },
+    {
+        "question": "Que détermine l'indentation en Python?",
+        "correct_answer": "La façon dont Python détermine la structure de son code, en utilisant des espaces ou des tabulations pour délimiter les blocs de code."
+    },
+    {
+        "question": "Que représente une instruction en Python?",
+        "correct_answer": "Une commande exécutable, comme une déclaration d'importation, une définition de fonction, une affectation de variable, etc."
+    },
+    {
+        "question": "Donnez un exemple d'expression en Python.",
+        "correct_answer": "Une combinaison de valeurs, variables et opérateurs qui évalue à une certaine valeur. Par exemple, 5 + 3 est une expression."
+    },
+    {
+        "question": "À quoi sert une variable en Python?",
+        "correct_answer": "Un nom associé à une valeur dans le programme. Les variables sont utilisées pour stocker des données."
+    },
+    {
+        "question": "Qu'est-ce qu'un type de données en Python?",
+        "correct_answer": "La nature d'une valeur en Python, comme entier (int), flottant (float), chaîne de caractères (str), liste, etc."
+    },
+    {
+        "question": "Qu'est-ce qu'une liste en Python?",
+        "correct_answer": "Une structure de données ordonnée pouvant contenir une collection d'éléments de différents types."
+    },
+    {
+        "question": "Quelle est la particularité d'un tuple en Python?",
+        "correct_answer": "Une structure de données similaire à une liste, mais immuable."
+    },
+    {
+        "question": "Décrivez un dictionnaire en Python.",
+        "correct_answer": "Une structure de données permettant de mapper des clés à des valeurs."
+    },
+    {
+        "question": "Qu'est-ce qu'une boucle en Python?",
+        "correct_answer": "Une structure de contrôle qui répète un bloc de code tant qu'une condition est vraie (boucle while) ou pour chaque élément d'une séquence (boucle for)."
+    },
+    {
+        "question": "Définissez une condition en Python.",
+        "correct_answer": "Une expression qui évalue à vrai ou faux, utilisée pour contrôler le flux du programme."
+    },
+    {
+        "question": "Qu'est-ce qu'une fonction en Python?",
+        "correct_answer": "Un bloc de code réutilisable qui effectue une tâche spécifique lorsqu'il est appelé."
+    },
+    {
+        "question": "Qu'est-ce qu'un module en Python?",
+        "correct_answer": "Un fichier contenant du code Python qui peut être importé dans d'autres programmes."
+    },
+    {
+        "question": "Qu'est-ce qu'un package en Python?",
+        "correct_answer": "Un ensemble de modules organisés dans une hiérarchie de répertoires."
+    },
+    {
+        "question": "Qu'est-ce qu'une méthode en Python?",
+        "correct_answer": "Une fonction associée à un objet, appelée à travers cet objet."
+    },
+    {
+        "question": "Définissez le terme itération en Python.",
+        "correct_answer": "Le processus de répétition d'une suite d'instructions."
+    },
+    {
+        "question": "Qu'est-ce que l'importation en Python?",
+        "correct_answer": "L'inclusion de modules ou de parties de modules dans un programme Python à l'aide de l'instruction import."
+    },
+    {
+        "question": "Qu'est-ce qu'un fichier en termes de Python?",
+        "correct_answer": "Un objet Python utilisé pour interagir avec des fichiers sur le système de fichiers."
+    },
+    {
+        "question": "Décrivez ce qu'est une exception en Python.",
+        "correct_answer": "Une erreur qui se produit lors de l'exécution du programme, interrompant le flux normal du programme."
+    },
+    {
+        "question": "Qu'est-ce qu'un gestionnaire d'exceptions en Python?",
+        "correct_answer": "Un bloc de code qui gère les exceptions lorsqu'elles se produisent, utilisant les mots-clés try, except, else et finally."
+    },
+    {
+        "question": "Qu'est-ce qu'un objet en Python?",
+        "correct_answer": "Une instance d'une classe qui peut avoir des attributs et des méthodes."
+    },
+    {
+        "question": "Qu'est-ce qu'une classe en Python?",
+        "correct_answer": "Un modèle pour créer des objets qui définit des attributs et des méthodes communes à tous les objets de ce type."
+    },
+    {
+        "question": "Qu'est-ce qu'une instance en Python?",
+        "correct_answer": "Un objet créé à partir d'une classe spécifique."
+    },
+    {
+        "question": "Qu'est-ce qu'un attribut en Python?",
+        "correct_answer": "Une variable associée à un objet, contenant des données spécifiques à cet objet."
+    },
+    {
+        "question": "Décrivez une méthode spéciale en Python.",
+        "correct_answer": "Une méthode prédéfinie dans Python qui commence et se termine par deux underscores (__). Elles permettent de redéfinir le comportement des opérateurs ou d'autres fonctionnalités intégrées de Python."
+    },
+    {
+        "question": "Qu'est-ce que l'héritage en Python?",
+        "correct_answer": "Le mécanisme permettant à une classe d'hériter des attributs et des méthodes d'une autre classe."
+    },
+    {
+
+        "question": "Définissez le polymorphisme en Python.",
+        "correct_answer": "La capacité à traiter des objets de différentes classes de manière uniforme."
+    },
+    {
+        "question": "Qu'est-ce que l'encapsulation en Python?",
+        "correct_answer": "Le principe de regrouper des données et des méthodes qui agissent sur ces données dans une unité unique, appelée classe."
+    },
+    {
+        "question": "Qu'est-ce que la portée en Python?",
+        "correct_answer": "La partie du code où une variable est accessible."
+    },
+    {
+        "question": "Qu'est-ce que la portée globale en Python?",
+        "correct_answer": "La portée où une variable est accessible dans tout le programme."
+    },
+    {
+        "question": "Qu'est-ce que la portée locale en Python?",
+        "correct_answer": "La portée où une variable est accessible uniquement dans une partie spécifique du programme, comme une fonction ou une méthode."
+    },
+    {
+        "question": "Qu'est-ce qu'une compréhension de liste en Python?",
+        "correct_answer": "Une syntaxe concise pour créer des listes à partir d'autres séquences en Python."
+    },
+    {
+        "question": "Qu'est-ce qu'un générateur en Python?",
+        "correct_answer": "Une fonction qui retourne un itérateur, générant les valeurs au fur et à mesure qu'elles sont nécessaires."
+    },
+    {
+        "question": "Qu'est-ce qu'un décorateur en Python?",
+        "correct_answer": "Une fonction qui modifie le comportement d'une autre fonction."
+    },
+    {
+        "question": "Qu'est-ce qu'un module intégré en Python?",
+        "correct_answer": "Un module Python qui est inclus dans l'installation de base de Python et est toujours disponible."
+    },
+    {
+        "question": "Qu'est-ce qu'un module tiers en Python?",
+        "correct_answer": "Un module Python développé par des tiers et disponible via des gestionnaires de packages comme pip."
+    },
+    {
+        "question": "Qu'est-ce que pip en Python?",
+        "correct_answer": "Le gestionnaire de packages Python qui facilite l'installation, la gestion et la suppression de modules Python."
+    },
+    {
+        "question": "Qu'est-ce que Virtualenv en Python?",
+        "correct_answer": "Un outil permettant de créer des environnements Python isolés pour chaque projet, facilitant la gestion des dépendances."
+    },
+    {
+        "question": "Qu'est-ce qu'une expression lambda en Python?",
+        "correct_answer": "Une fonction anonyme définie en une seule ligne à l'aide de la syntaxe lambda arguments: expression."
+    },
+    {
+        "question": "Qu'est-ce qu'un slice en Python?",
+        "correct_answer": "Une méthode permettant de sélectionner une partie d'une séquence (liste, chaîne de caractères, etc.) en spécifiant un début, une fin et un pas."
+    }
+]
