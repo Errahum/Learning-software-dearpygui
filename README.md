@@ -20,3 +20,15 @@ Example:
         "correct_answer": "How Python determines the structure of its code, using spaces or tabs to delineate code blocks."
     }
 ]
+
+```
+
+### How to Run
+Ensure you have the required dependencies:
+pip install dearpygui
+
+Place the questions.json file in the same directory as learning_app.py.
+Run the application:
+python learning_app.py
+
+The application window will display questions, and users can select answers. The score is updated based on correct or incorrect responses.
