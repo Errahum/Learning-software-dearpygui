@@ -17,7 +17,7 @@ class LearningApp:
         self.show_question()
 
     def load_data(self):
-        with open('questions.json', 'r', encoding='utf-8') as file:
+        with open('questions_en.json', 'r', encoding='utf-8') as file:
             return json.load(file)
 
     def create_interface(self):

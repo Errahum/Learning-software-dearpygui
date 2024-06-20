@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is a Python interpreter?",
+        "correct_answer": "The program that executes Python code line by line."
+    },
+    {
+        "question": "What does indentation determine in Python?",
+        "correct_answer": "How Python determines the structure of its code, using spaces or tabs to delimit code blocks."
+    },
+    {
+        "question": "What does a statement represent in Python?",
+        "correct_answer": "An executable command, such as an import declaration, a function definition, a variable assignment, etc."
+    },
+    {
+        "question": "Give an example of an expression in Python.",
+        "correct_answer": "A combination of values, variables, and operators that evaluates to a certain value. For example, 5 + 3 is an expression."
+    },
+    {
+        "question": "What is a variable used for in Python?",
+        "correct_answer": "A name associated with a value in the program. Variables are used to store data."
+    },
+    {
+        "question": "What is a data type in Python?",
+        "correct_answer": "The nature of a value in Python, such as integer (int), floating-point (float), string (str), list, etc."
+    },
+    {
+        "question": "What is a list in Python?",
+        "correct_answer": "An ordered data structure that can contain a collection of elements of different types."
+    },
+    {
+        "question": "What is the characteristic of a tuple in Python?",
+        "correct_answer": "A data structure similar to a list, but immutable."
+    },
+    {
+        "question": "Describe a dictionary in Python.",
+        "correct_answer": "A data structure that maps keys to values."
+    },
+    {
+        "question": "What is a loop in Python?",
+        "correct_answer": "A control structure that repeats a block of code while a condition is true (while loop) or for each element in a sequence (for loop)."
+    },
+    {
+        "question": "Define a condition in Python.",
+        "correct_answer": "An expression that evaluates to true or false, used to control the program flow."
+    },
+    {
+        "question": "What is a function in Python?",
+        "correct_answer": "A reusable block of code that performs a specific task when called."
+    },
+    {
+        "question": "What is a module in Python?",
+        "correct_answer": "A file containing Python code that can be imported into other programs."
+    },
+    {
+        "question": "What is a package in Python?",
+        "correct_answer": "A collection of modules organized in a directory hierarchy."
+    },
+    {
+        "question": "What is a method in Python?",
+        "correct_answer": "A function associated with an object, called through that object."
+    },
+    {
+        "question": "Define the term iteration in Python.",
+        "correct_answer": "The process of repeating a set of instructions."
+    },
+    {
+        "question": "What is importation in Python?",
+        "correct_answer": "Including modules or parts of modules in a Python program using the import statement."
+    },
+    {
+        "question": "What is a file in terms of Python?",
+        "correct_answer": "A Python object used to interact with files on the filesystem."
+    },
+    {
+        "question": "Describe what an exception is in Python.",
+        "correct_answer": "An error that occurs during the execution of the program, interrupting the normal flow of the program."
+    },
+    {
+        "question": "What is an exception handler in Python?",
+        "correct_answer": "A block of code that handles exceptions when they occur, using the keywords try, except, else, and finally."
+    },
+    {
+        "question": "What is an object in Python?",
+        "correct_answer": "An instance of a class that can have attributes and methods."
+    },
+    {
+        "question": "What is a class in Python?",
+        "correct_answer": "A blueprint for creating objects that defines common attributes and methods for all objects of that type."
+    },
+    {
+        "question": "What is an instance in Python?",
+        "correct_answer": "An object created from a specific class."
+    },
+    {
+        "question": "What is an attribute in Python?",
+        "correct_answer": "A variable associated with an object, containing data specific to that object."
+    },
+    {
+        "question": "Describe a special method in Python.",
+        "correct_answer": "A predefined method in Python that starts and ends with double underscores (__). They allow you to redefine the behavior of operators or other built-in Python features."
+    },
+    {
+        "question": "What is inheritance in Python?",
+        "correct_answer": "The mechanism by which a class inherits attributes and methods from another class."
+    },
+    {
+        "question": "Define polymorphism in Python.",
+        "correct_answer": "The ability to treat objects of different classes in a uniform way."
+    },
+    {
+        "question": "What is encapsulation in Python?",
+        "correct_answer": "The principle of bundling data and methods that operate on that data into a single unit called a class."
+    },
+    {
+        "question": "What is scope in Python?",
+        "correct_answer": "The part of the code where a variable is accessible."
+    },
+    {
+        "question": "What is global scope in Python?",
+        "correct_answer": "The scope where a variable is accessible throughout the entire program."
+    },
+    {
+        "question": "What is local scope in Python?",
+        "correct_answer": "The scope where a variable is accessible only in a specific part of the program, such as a function or method."
+    },
+    {
+        "question": "What is a list comprehension in Python?",
+        "correct_answer": "A concise syntax for creating lists from other sequences in Python."
+    },
+    {
+        "question": "What is a generator in Python?",
+        "correct_answer": "A function that returns an iterator, generating values as they are needed."
+    },
+    {
+        "question": "What is a decorator in Python?",
+        "correct_answer": "A function that modifies the behavior of another function."
+    },
+    {
+        "question": "What is a built-in module in Python?",
+        "correct_answer": "A Python module that is included in the base installation of Python and is always available."
+    },
+    {
+        "question": "What is a third-party module in Python?",
+        "correct_answer": "A Python module developed by third parties and available through package managers like pip."
+    },
+    {
+        "question": "What is pip in Python?",
+        "correct_answer": "The Python package manager that facilitates the installation, management, and removal of Python modules."
+    },
+    {
+        "question": "What is Virtualenv in Python?",
+        "correct_answer": "A tool that allows you to create isolated Python environments for each project, making dependency management easier."
+    },
+    {
+        "question": "What is a lambda expression in Python?",
+        "correct_answer": "An anonymous function defined in a single line using the syntax lambda arguments: expression."
+    },
+    {
+        "question": "What is a slice in Python?",
+        "correct_answer": "A method for selecting a part of a sequence (list, string, etc.) by specifying a start, stop, and step."
+    }
+]
