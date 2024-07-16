@@ -1,1 +1,1 @@
-dearpygui
+dearpygui~=1.10.1

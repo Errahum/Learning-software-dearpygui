@@ -1,8 +1,8 @@
-import dearpygui.dearpygui as dpg
 import json
 import random
-import time
 import textwrap
+
+import dearpygui.dearpygui as dpg
 
 
 class LearningApp:
